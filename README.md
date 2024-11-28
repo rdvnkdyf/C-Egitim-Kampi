@@ -27,4 +27,6 @@ Son projede, kullanıcı girdilerini işleyerek geriye değer döndüren fonksiy
 
 Bu C# temel videolar sayesinde C# temellerini çok iyi anladım.
 
+<h1>TASK 3 Görevi</h1>
+<h3>Entity Framework Metotları ve Linq Sorgularını kullanarak veritabanında yer alan bilgilerini oluşturduğumuz form üzerinde panel,label ekleme işlemlerinin ardından gerçekleştirdik</h3>
 ![Projemin Görüntüsü](Task3.png)
