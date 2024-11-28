@@ -26,3 +26,5 @@ Bir sınav simülasyonu oluşturarak, foreach döngüsünü daha detaylı incele
 Son projede, kullanıcı girdilerini işleyerek geriye değer döndüren fonksiyonlar geliştirdim. Bu proje ile daha karmaşık işlemleri uygulama fırsatı buldum. 🎗️
 
 Bu C# temel videolar sayesinde C# temellerini çok iyi anladım.
+
+![Projemin Görüntüsü](Task3.png)
